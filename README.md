@@ -1,8 +1,6 @@
 ##
  ## Olà! Eu sou o Kaiqui Petty!!
 
-
-
  <div>
  <a href= "https://github.com/oKaiquiPetty">
   <img height= "180cm" src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -11,7 +9,13 @@
 
 atualmente estudando tudo isso na São Paulo Tech School:
   <div style="display: inline-block;"> <br>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"" alt="html5" height="30" width="40">
+
+   <img align="left" height="70" width="60" src="https://3.bp.blogspot.com/-c6fyaF8QrSo/XL9tB7eVEgI/AAAAAAAACEA/g2XMpONIwDYHqCde0SDvdI6DmdRXiw6NwCLcBGAs/s1600/Marco.gif" alt="toudquegira">
+
+   <img align="right" src="" alt="moodle" height="70" width="60">
+   
+
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="30" width="40">
         
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" height="30" width="40">
         
@@ -31,7 +35,6 @@ atualmente estudando tudo isso na São Paulo Tech School:
         
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" alt="moodle" height="30" width="40">
   
-  <img align= "right" width="80" src="https://i.gifer.com/3vIG.gif" alt="toudquegira">
   </div>
   
   ## 
