@@ -33,6 +33,6 @@ atualmente estudando tudo isso na São Paulo Tech School:
   
   ## 
   
-<div>
-![snake animation] (https://github.com/oKaiquiPetty/oKaiquiPetty/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+   ![snake animation](https://github.com/oKaiquiPetty/oKaiquiPetty/blob/output/github-contribution-grid-snake.svg)
+
