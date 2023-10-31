@@ -8,8 +8,8 @@
 
  <div>
  <a href= "https://github.com/oKaiquiPetty">
-  <img height= "180cm" src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-   <img height= "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height= "180cm" src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=radical&include_all_commits=true&count_private=false" />
+   <img height= "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=radical" />
 </div> <br>
 
 atualmente estudando tudo isso na São Paulo Tech School:
