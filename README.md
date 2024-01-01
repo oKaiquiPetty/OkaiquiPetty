@@ -1,9 +1,10 @@
  ##
  
  ## Olà! Eu sou o Kaiqui Petty!!
- 💎 tenho 19 anos e <br>
- 💻estou cursando ADS na faculdade SPTech
-
+ 💎 tenho 19 anos <br>
+ 💻segundo semestre na são paulo tech school👾 <br>
+ 💻 analista e desenvolvedor de sistemas👾 <br>
+ 💼 Estagiando na empresa V8.Tech!!! 💟
  ##
 
  <div>
