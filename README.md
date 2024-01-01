@@ -1,4 +1,6 @@
  ##
+
+<img align="center" src="https://pngimg.com/d/welcome_PNG81.png" height="200px" widht="200px" >
  
  ## Olà! Eu sou o Kaiqui Petty!!
  💎 tenho 19 anos <br>
