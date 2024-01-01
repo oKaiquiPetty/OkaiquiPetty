@@ -1,6 +1,6 @@
  ##
 
-<img align="center" src="https://pngimg.com/d/welcome_PNG81.png" height="200px" widht="200px" >
+<img align="center" src="https://pngimg.com/d/welcome_PNG81.png" alt="" height="200px" widht="200px" >
  
  ## Olà! Eu sou o Kaiqui Petty!!
  💎 tenho 19 anos <br>
@@ -49,7 +49,7 @@ atualmente estudando tudo isso na São Paulo Tech School:
   
    <div style="display: flex;" >
    
-   <img align="left" height="100" width="100" src="https://3.bp.blogspot.com/-c6fyaF8QrSo/XL9tB7eVEgI/AAAAAAAACEA/g2XMpONIwDYHqCde0SDvdI6DmdRXiw6NwCLcBGAs/s1600/Marco.gif" alt="toudquegira">
+   <img align="left" height="100" width="100" src="https://3.bp.blogspot.com/-c6fyaF8QrSo/XL9tB7eVEgI/AAAAAAAACEA/g2XMpONIwDYHqCde0SDvdI6DmdRXiw6NwCLcBGAs/s1600/Marco.gif" alt="">
 
 
      
