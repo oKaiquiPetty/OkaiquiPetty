@@ -53,7 +53,7 @@ atualmente estudando tudo isso na São Paulo Tech School:
      
    <img align="center"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4763bffd-6902-4b2b-b899-107819b82fe3/dduh8p7-72e600a9-cd7b-482a-a974-fb218cc1181d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3NjNiZmZkLTY5MDItNGIyYi1iODk5LTEwNzgxOWI4MmZlM1wvZGR1aDhwNy03MmU2MDBhOS1jZDdiLTQ4MmEtYTk3NC1mYjIxOGNjMTE4MWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XlP_9L_CrJ2RGHwgBivvvoCICkvWVeDagBjGa9Zp9hA" alt="" height="100" width="100">
    
- <img align="center"  src="https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-4.gif">
+ <img align="center"  src="https://w7.pngwing.com/pngs/309/979/png-transparent-welcome-text-illustration-computer-icons-desktop-welcome-miscellaneous-image-file-formats-text.png">
  
 Nunca se é jovem demais para Ensinar ou velho demais para Aprender! <br>
 O mundo é nosso para Moldarmos, Moldaremos juntos!
