@@ -46,7 +46,7 @@ atualmente estudando tudo isso na São Paulo Tech School:
   
    <div style="display: flex;" >
    
-   <img align="left" height="70" width="70" src="https://3.bp.blogspot.com/-c6fyaF8QrSo/XL9tB7eVEgI/AAAAAAAACEA/g2XMpONIwDYHqCde0SDvdI6DmdRXiw6NwCLcBGAs/s1600/Marco.gif" alt="">
+ 
 
 
      
