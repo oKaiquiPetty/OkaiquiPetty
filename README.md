@@ -13,8 +13,8 @@
 <center>
  <div>
  <a href= "https://github.com/oKaiquiPetty">
-  <img height= "110cm" src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=radical&include_all_commits=true&count_private=false" />
-   <img height= "110cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=radical" />
+  <img height= "110cm"  src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=radical&include_all_commits=true&count_private=false" />
+   <img height= "110cm"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=radical" />
 </div> <br>
 <center>
 atualmente estudando tudo isso na São Paulo Tech School:
