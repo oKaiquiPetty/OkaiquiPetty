@@ -10,13 +10,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=oKaiquiPetty&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
+<center>
  <div>
  <a href= "https://github.com/oKaiquiPetty">
-  <img height= "180cm" src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=radical&include_all_commits=true&count_private=false" />
-   <img height= "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=radical" />
+  <img height= "110cm" src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=radical&include_all_commits=true&count_private=false" />
+   <img height= "110cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=radical" />
 </div> <br>
-
+<center>
 atualmente estudando tudo isso na São Paulo Tech School:
   <div style="display: inline-block;"> <br>
 
