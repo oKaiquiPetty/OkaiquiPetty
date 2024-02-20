@@ -1,10 +1,15 @@
- ##
- ## Olà! Eu sou o Kaiqui Petty!!
- 💎 tenho 19 anos <br>
- 💻segundo semestre na são paulo tech school👾 <br>
- 💻 analista e desenvolvedor de sistemas👾 <br>
- 💼 Estagiando na empresa V8.Tech!!! 💟
- ##
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+i´m+Kaiqui+Petty;I'm+19+years+old;I+was+born+from+Brazil;I+study+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oKaiquiPetty&bg_color=0d1117&color=F8F8FF&line=4B0082&point=B0E0E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oKaiquiPetty&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 
  <div>
  <a href= "https://github.com/oKaiquiPetty">
