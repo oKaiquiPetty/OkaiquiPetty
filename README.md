@@ -1,20 +1,20 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+i´m+Kaiqui+Petty;I'm+19+years+old;I+was+born+from+Brazil;I'm+currently+interning+at+v8.tech;i+study+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oKaiquiPetty&bg_color=0d1117&color=F8F8FF&line=4B0082&point=B0E0E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oKaiquiPetty&bg_color=0d1117&color=F8F8FF&line=191970&point=B0E0E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oKaiquiPetty&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oKaiquiPetty&theme=transparent&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <center>
  <div>
  <a href= "https://github.com/oKaiquiPetty">
-  <img height= "300cm"  src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=radical&include_all_commits=true&count_private=false" />
-   <img height= "335cm"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=radical" />
+  <img height= "100cm"  src= "https://github-readme-stats.vercel.app/api?username=oKaiquiPetty&show_icons=true&theme=transparent&include_all_commits=true&count_private=false" />
+   <img height= "135cm"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oKaiquiPetty&layout=compact&langs_count=16&theme=transparent" />
 </div> <br>
 <center>
 atualmente estudando tudo isso na São Paulo Tech School:
